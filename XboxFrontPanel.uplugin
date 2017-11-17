@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1",
+	"FriendlyName": "Xbox Front Panel",
+	"Description": "Blueprint interface to Xbox Front Panel and UMG presentation support",
+	"Category": "Xbox",
+	"CreatedBy": "Microsoft",
+	"CreatedByURL": "www.microsoft.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "XboxFrontPanel",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
