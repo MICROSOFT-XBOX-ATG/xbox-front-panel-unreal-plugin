@@ -6,7 +6,7 @@
 #include "XboxFrontPanelModule.h"
 
 #include "InputCore.h"
-#include "SharedPointer.h"
+#include "Templates/SharedPointer.h"
 
 class FXboxFrontPanelModuleBase :
 	public IXboxFrontPanelModule

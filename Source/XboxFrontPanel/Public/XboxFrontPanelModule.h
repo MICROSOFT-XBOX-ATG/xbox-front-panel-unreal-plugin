@@ -3,9 +3,9 @@
 //*********************************************************
 #pragma once
 
-#include "ModuleManager.h"
-#include "ObjectMacros.h"
-#include "GenericApplicationMessageHandler.h"
+#include "Modules/ModuleManager.h"
+#include "UObject/ObjectMacros.h"
+#include "GenericPlatform/GenericApplicationMessageHandler.h"
 
 class SWidget;
 class UUserWidget;
