@@ -7,7 +7,7 @@
 #include "Engine/EngineTypes.h"
 #include "RHI.h"
 #include "Materials/MaterialInterface.h"
-#include "ConstructorHelpers.h"
+#include "UObject/ConstructorHelpers.h"
 
 void UXboxFrontPanelBlueprintLibrary::SetScreenWidget(UUserWidget* Widget)
 {
